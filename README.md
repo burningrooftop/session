@@ -1,7 +1,11 @@
 # session
 Session object for Run Basic
 
-### Usage:
+### Requirements
+
+Requires Run Basic 1.01 and functionLibrary.
+
+### Usage
 
 Calling project:
 
