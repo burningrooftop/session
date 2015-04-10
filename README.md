@@ -3,7 +3,7 @@ Session object for Run Basic
 
 ### Requirements
 
-Requires Run Basic 1.01 and functionLibrary.
+Requires Run Basic 1.01 and [functionLibrary](https://github.com/burningrooftop/functionLibrary).
 
 ### Usage
 
